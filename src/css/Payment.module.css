@@ -1,0 +1,16 @@
+.container{margin-top:20px; padding-top: 90px; padding-left: 40%;}
+.paneltitle {display: inline;font-weight: bold;}
+.checkbox{ margin: 0; }
+.pullright { margin: 0; }
+.plziro { padding-left: 0px; }
+.s1 {
+    background-size: cover;
+    /*background-position: center center;*/
+    min-height: 100vh;
+  
+    padding: 160px 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+  }
